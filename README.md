@@ -6,7 +6,7 @@ This project ware made to improve my skill about Angular and .NET. It was so hel
 
 <!--- # "Verify icons availability here https://github.com/tandpfun/skill-icons" -->
 
-[![My Skills](https://skillicons.dev/icons?i=ts,sql,angular,c#,.net)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,sql,angular,cs,dotnet)](https://skillicons.dev)
 
 ## Getting Started
 
