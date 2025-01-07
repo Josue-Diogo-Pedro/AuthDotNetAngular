@@ -12,7 +12,7 @@ This project ware made to improve my skill about Angular and .NET. It was so hel
 
 1. **Install Dependencies on FrontEnd**: `npm install or yarn`
 3. **Environment variables**: Copy `.env.example` to a new `.env.local`
-4. **Database Setup**: `add your connectionString in appconfig.js and build migrations and update database`
+4. **Database Setup**: `add your connectionString in appsettings.json and build migrations and update database`
 5. **Start Developing**: `dotnet run (api) & ng s (frontend)`
 
 ## Contribute
